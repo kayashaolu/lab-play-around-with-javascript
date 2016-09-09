@@ -11,7 +11,7 @@ Play around with JavaScript
 
 ## Please fill out the blank stubs of the functions in the js/script.js file and run the HTML page
  - Please run index.html to check your work
- - Right click on the page and select "Inspect Element". Then click on the console tab at the bottom of the page to see any errors you have.
+ - Right click on the page and select "Inspect Element". Then click on the console tab at the bottom of the page to check any errors you have and fix them
  - If it runs successfully, you should see a series of prompts that use the three function that you have written successfully
  - Once you have written the three functions successfully and the prompts run successfully you are done
 
