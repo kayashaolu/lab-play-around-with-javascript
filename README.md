@@ -1,8 +1,14 @@
-# Lab 3
-Play around with JavaScript
+# Lab 3: Play around with JavaScript
 
 ## In this lab you will accomplish the following
  - Use JavaScript to build and run your first program
+ 
+ ## Load up your vagrant box (will need this for every lab and assignment)
+ - Open a new terminal
+ - Type the command ```cd i253``` to open the i253 folder
+ - Type ```vagrant ssh``` to log into your box
+ - Navigate to ```cd /vagrant``` to change directory to your synced vagrant folder
+ - Clone your repo in this directory
 
 ## Please write the code for these three functions:
  - getMaximum(num1, num2): return the largest of the two numbers
